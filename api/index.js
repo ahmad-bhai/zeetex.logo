@@ -3,7 +3,7 @@ const app = Express();
 
 app.use(Express.json());
 
-const BOT_TOKEN = process.env.BOT_TOKEN || "8909016832:AAEmJOGyALO8N4CqzjMIRVZdRvJRULflbC0";
+const BOT_TOKEN = process.env.BOT_TOKEN || "8909016832:AAEPMnLZw9N-1tck2I-HCD2-ysY1gixc_Z8";
 const PHOTO_URL = "https://i.ibb.co/1JvTsrpN/d795e3af442a.jpg";
 
 // Telegram Photo with Caption Sending Helper Function
